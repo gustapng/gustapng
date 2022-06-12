@@ -15,6 +15,8 @@
   <img align="center" alt="Gusta-Bootstrap" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gusta-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gusta-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4391798-4f67-44ff-bc33-d1f3fb17ae08" data-share-badge-host="https://www.credly.com">
+  </div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
   
   ##
