@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gustavo Ferreira, Seja bem vindo ao meu perfil do GitHub 👋
 
 - 📚 Atualmente cursando Desenvolvimento web
-- 🌱 Estudando JavaScript, HTML, CSS e Bootstrap
+- 🌱 Estudando JavaScript, HTML, CSS, Saas e Bootstrap
 - 📫 E-mail para contato: gustavoferreira.png@gmail.com
 
 <div align="center">
