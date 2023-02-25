@@ -8,8 +8,23 @@
 </div>
 
 ## Sobre mim 👨🏽
-<p>Estudante de Desenvolvimento Web 2° semestre pela Unopar, além de cursar faculdade eu estudo através de curso e aplico meus conhecimentos em projetos para poder desenvolver meus conhecimentos, que inicialmente foram em Front-End mas projeto minha trilha de estudos para ser um desenvolvedor Full-Stack<br><br>Minha paixão por tecnologia vem desde criança, é o que era um paixão de infância hoje é onde eu vejo minha carreira profissional.<br><br>
-Estou em busca da minha primeira oportunidade como Desenvolvedor Jr/Estagiário.
+🚀 Olá, meu nome é Gustavo e sou desenvolvedor Full Stack Jr.
+
+📧 Email: gustavoferreira.png@gmail.com
+📱 WhatsApp: +55 (73) 98211-1652
+💻 Linkedin: [github.com/gustapng](https://www.linkedin.com/in/gustavo-ferreirapng/)
+
+🎯 Tenho como objetivo aprimorar meus conhecimentos em PHP e Laravel, futuramente pretendo iniciar meus estudos no Framework Vue Js para Front-end. Atualmente atuo como Desenvolvedor FullStack Jr na Libre Soluções, e estou cursando o 3° semestre em Desenvolvimento Web pela universidade Unopar.
+
+🔎 Hard Skills: 
+ • Html • Css • Bootstrap • JavaScript
+ • AJAX • Jquery • SQL • GIT
+ • Wordpress • PHP
+
+🧠 Soft Skills:
+ • Comunicativo • Criativo
+ • Trabalho em equipe • Flexível
+ • Aprendizado constante
 </p>
 
 <div align="center">
