@@ -19,7 +19,7 @@
 🔎 Hard Skills: 
  • Html • Css • Bootstrap • JavaScript
  • AJAX • Jquery • SQL • GIT
- • Wordpress • PHP
+ • Wordpress • PHP • Laravel
 
 🧠 Soft Skills:
  • Comunicativo • Criativo
