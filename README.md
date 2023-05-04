@@ -12,7 +12,7 @@
 
 📧 Email: gustavoferreira.png@gmail.com<br>
 📱 WhatsApp: +55 (73) 98211-1652<br>
-💻 Linkedin: [github.com/gustapng](https://www.linkedin.com/in/gustavo-ferreirapng/)<br>
+💻 Linkedin: www.linkedin.com/in/gustavo-ferreirapng<br>
 
 🎯 Tenho como objetivo aprimorar meus conhecimentos em PHP e Laravel, futuramente pretendo iniciar meus estudos no Framework Vue Js para Front-end. Atualmente atuo como Desenvolvedor FullStack Jr na Libre Soluções, e estou cursando o 3° semestre em Desenvolvimento Web pela universidade Unopar.
 
