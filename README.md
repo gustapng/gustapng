@@ -50,7 +50,4 @@
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e4391798-4f67-44ff-bc33-d1f3fb17ae08" data-share-badge-host="https://www.credly.com">
   </div>
 </div>
-  
 
-
-  ![Snake animation](https://github.com/gustapng/gustapng/blob/output/github-contribution-grid-snake.svg)
