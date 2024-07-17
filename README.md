@@ -7,34 +7,38 @@
 
 ### 👋 Olá! meu nome é Gustavo e sou desenvolvedor Full Stack
 
-🖥️ Desenvolvedor Full Stack | PHP & JavaScript
+Especializado em criar aplicações web intuitivas e eficientes utilizando PHP e JavaScript. Estou atualmente estudando Swift com os frameworks UIKit com View Code e SwiftUI para desenvolvimento mobile, com o objetivo de me especializar nessa área.
 
-Sou um entusiasta do Desenvolvimento Full Stack, especializado em criar soluções robustas e interativas para web, utilizando principalmente PHP e JavaScript. Tenho experiência em proporcionar experiências de usuário intuitivas e eficientes.
+### O que eu ofereço:
+Desenvolvimento Full Stack: Proficiente em PHP, Laravel e JavaScript, crio aplicações que garantem desempenho consistente e experiências de usuário contínuas. Tenho experiência em sistemas web e em desenvolvimento de sites.
 
-### O que eu Ofereço:
-
-🌐 Desenvolvimento Full Stack: Proficiente em PHP e JavaScript, crio aplicações que oferecem desempenho consistente, proporcionando uma experiência contínua aos usuários.
-
-🛠️ Defensor das Melhores Práticas: Comprometido com o uso de metodologias ágeis e boas práticas de desenvolvimento para produzir código limpo, escalável e de fácil manutenção.
+### Defensor das Melhores Práticas:
+Comprometido com o uso de metodologias ágeis e boas práticas de desenvolvimento, produzindo código limpo, escalável e de fácil manutenção. Experiência em trabalho colaborativo utilizando Git e plataformas como GitHub/GitLab.
 
 ### Objetivos de Carreira:
+Meu objetivo é trilhar uma carreira de sucesso como Desenvolvedor, focando especialmente no desenvolvimento mobile com Swift e seus frameworks associados. Estou constantemente investindo em meu aprimoramento, participando de cursos, workshops e comunidades para consolidar meu conhecimento e me manter atualizado nas tendências tecnológicas.
 
-🎯 Almejo trilhar uma carreira de sucesso como Desenvolvedor, impulsionando meu crescimento profissional por meio da aquisição contínua de novas habilidades e da exploração ativa de tecnologias emergentes.
+### Tecnologias e Habilidades:
+Front-end: HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery<br>
+Back-end: PHP, Laravel<br>
+Mobile: Swift (UIKit - ViewCode, SwiftUI)<br>
+Banco de dados: PostgreSQL, MySQL, MongoDB<br>
+UI/UX: Figma, Photoshop<br>
+Ferramentas e Metodologias: Git, Metodologias Ágeis (Scrum, Kanban)
 
-🌱 Investir no aprimoramento constante, participando ativamente de cursos, workshops e comunidades, para consolidar meu conhecimento e permanecer atualizado nas tendências tecnológicas.
+### Experiências e Realizações Adicionais:
 
-### 🔧 Tecnologias:
-• HTML • CSS • Bootstrap • JavaScript
-• AJAX • jQuery • PHP • Laravel • SQL • GIT
+#### Case Internacional:
+Participei de um case internacional com o desafio de adequar as regras de negócio para o sistema tributário de outro país, demonstrando minha capacidade de adaptar soluções a diferentes contextos legislativos e regulatórios.
 
-### 🧠 Soft Skills:
- • Comunicativo • Criativo
- • Trabalho em equipe • Flexível
- • Aprendizado constante
+#### Sistemas de Integração:
+Realizei integrações com APIs governamentais, aumentando a funcionalidade e a interoperabilidade do software que utilizava desse recurso.
 
-### 📧 Contato:<br>
- • gustavoferreira.png@gmail.com | 📱 +55 (73) 98211-1652<br>
- • GitHub: github.com/gustapng<br>
+Estou ansioso para trazer minhas habilidades e experiência para novos desafios e contribuir para projetos inovadores. Vamos nos conectar e juntos construir soluções exclusivas!
+
+Email: gustavoferreira.png@gmail.com<br>
+Telefone: +55 (73) 98211-1652<br>
+GitHub: github.com/gustapng
 
 Vamos nos conectar e juntos construir soluções excepcionais! 🚀<br>
 
