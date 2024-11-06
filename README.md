@@ -1,51 +1,39 @@
   <div> 
-<!--   <a href="https://www.instagram.com/oguuxta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:gustavoferreira.png@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-ferreira-1a7741223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=557382111652&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-### 👋 Olá! meu nome é Gustavo e sou desenvolvedor Full Stack
+# 👋 Olá, eu sou Gustavo Ferreira
 
-Especializado em criar aplicações web intuitivas e eficientes utilizando PHP e JavaScript. Estou atualmente estudando Swift com os frameworks UIKit com View Code e SwiftUI para desenvolvimento mobile, com o objetivo de me especializar nessa área.
+Sou desenvolvedor com foco em iOS e tenho mais de dois anos de experiência em desenvolvimento Full Stack, incluindo PHP e JavaScript. Atualmente, estou em transição para o desenvolvimento mobile com Swift, buscando aplicar minhas habilidades em novos desafios e criar soluções inovadoras.
 
-### O que eu ofereço:
-Desenvolvimento Full Stack: Proficiente em PHP, Laravel e JavaScript, crio aplicações que garantem desempenho consistente e experiências de usuário contínuas. Tenho experiência em sistemas web e em desenvolvimento de sites.
+### 👨‍💻 Tecnologias e Ferramentas
 
-### Defensor das Melhores Práticas:
-Comprometido com o uso de metodologias ágeis e boas práticas de desenvolvimento, produzindo código limpo, escalável e de fácil manutenção. Experiência em trabalho colaborativo utilizando Git e plataformas como GitHub/GitLab.
+- Mobile: Swift (UIKit - View Code, SwiftUI), Firebase
+- Back-end: PHP, Laravel
+- Front-end: HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery
+- Banco de dados: PostgreSQL, MySQL, MongoDB
+- UI/UX: Figma, Photoshop
+- Ferramentas e Metodologias: Git, Metodologias Ágeis (Scrum, Kanban)
 
-### Objetivos de Carreira:
-Meu objetivo é trilhar uma carreira de sucesso como Desenvolvedor, focando especialmente no desenvolvimento mobile com Swift e seus frameworks associados. Estou constantemente investindo em meu aprimoramento, participando de cursos, workshops e comunidades para consolidar meu conhecimento e me manter atualizado nas tendências tecnológicas.
+### 🚀 Projetos em Destaque
+<a href = "https://github.com/gustapng/NaEsquina-PersonalProject">NaEsquina</a>
 
-### Tecnologias e Habilidades:
-Front-end: HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery<br>
-Back-end: PHP, Laravel<br>
-Mobile: Swift (UIKit - ViewCode, SwiftUI)<br>
-Banco de dados: PostgreSQL, MySQL, MongoDB<br>
-UI/UX: Figma, Photoshop<br>
-Ferramentas e Metodologias: Git, Metodologias Ágeis (Scrum, Kanban)
+Um aplicativo para descobrir e recomendar comércios locais, criado para facilitar a busca por estabelecimentos ao redor. Com filtros dinâmicos, e integração com o mapa nativo do iOS, o NaEsquina representa minha abordagem prática e orientada a boas práticas no desenvolvimento mobile. Este projeto está em constante evolução e uso as melhores práticas de arquitetura e design de interface.
 
-### Experiências e Realizações Adicionais:
+### 💡 Objetivo
+Estou focado em construir uma carreira sólida em desenvolvimento iOS, aplicando constantemente novas técnicas e contribuindo para projetos de impacto. Valorizo o aprendizado contínuo e a troca de conhecimento, e estou sempre em busca de formas de aprimorar minhas habilidades.
 
-#### Case Internacional:
-Participei de um case internacional com o desafio de adequar as regras de negócio para o sistema tributário de outro país, demonstrando minha capacidade de adaptar soluções a diferentes contextos legislativos e regulatórios.
+### Vamos nos conectar!
+📧 Email: gustavoferreira.png@gmail.com<br>
+🐙 GitHub: github.com/gustapng<br>
+💼 LinkedIn: linkedin.com/in/gustavoferreira<br>
 
-#### Sistemas de Integração:
-Realizei integrações com APIs governamentais, aumentando a funcionalidade e a interoperabilidade do software que utilizava desse recurso.
-
-Estou ansioso para trazer minhas habilidades e experiência para novos desafios e contribuir para projetos inovadores. Vamos nos conectar e juntos construir soluções exclusivas!
-
-Email: gustavoferreira.png@gmail.com<br>
-Telefone: +55 (73) 98211-1652<br>
-GitHub: github.com/gustapng
-
-Vamos nos conectar e juntos construir soluções excepcionais! 🚀<br>
+<hr>
 
 <div align="center">
   <a href="https://github.com/gustapng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustapng&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustapng&layout=compact&langs_count=7&theme=dark"/>
 </div align="center">
-
-
