@@ -6,7 +6,7 @@
 
 # 👋 Olá, eu sou Gustavo Ferreira
 
-Sou desenvolvedor com foco em iOS e tenho mais de dois anos de experiência em desenvolvimento Full Stack, incluindo PHP e JavaScript. Atualmente, estou em transição para o desenvolvimento mobile com Swift, buscando aplicar minhas habilidades em novos desafios e criar soluções inovadoras.
+Sou desenvolvedor com foco em iOS e tenho mais de dois anos de experiência em desenvolvimento Full Stack, incluindo PHP e JavaScript. Atualmente, estou em transição para o desenvolvimento mobile, buscando aplicar minhas habilidades em novos desafios e criar soluções inovadoras.
 
 ### 👨‍💻 Tecnologias e Ferramentas
 
