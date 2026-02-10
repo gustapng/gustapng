@@ -4,28 +4,26 @@
   <a href="https://api.whatsapp.com/send/?phone=557382111652&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-# 👋 Olá, eu sou Gustavo Ferreira
+# 👋 Hello, I am Gustavo Ferreira
 
-Sou desenvolvedor com foco em iOS e tenho mais de dois anos de experiência em desenvolvimento Full Stack, incluindo PHP e JavaScript. Atualmente, estou em transição para o desenvolvimento mobile, buscando aplicar minhas habilidades em novos desafios e criar soluções inovadoras.
+I am a Mid-Level Full Stack Developer with 4+ years of experience specializing in building, modernizing, and optimizing web applications, with deep expertise in the PHP/Laravel ecosystem and Vue.js.
 
-### 👨‍💻 Tecnologias e Ferramentas
+My focus is on System Modernization, REST API Integrations, and Performance Optimization, while bridging the gap between Backend logic and Frontend usability (UI/UX). I strive to deliver efficient solutions by strictly adhering to Clean Code principles and best practices in database management.
 
-- Mobile: Swift (UIKit - View Code, SwiftUI), Firebase
-- Back-end: PHP, Laravel
-- Front-end: HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery
-- Banco de dados: PostgreSQL, MySQL, MongoDB
-- UI/UX: Figma, Photoshop
-- Ferramentas e Metodologias: Git, Metodologias Ágeis (Scrum, Kanban)
+I am results-oriented: I was recently promoted to Mid-Level Developer (Jan 2025) after leading critical initiatives, such as refactoring legacy modules into modern Vue.js/Laravel architectures and executing complex integrations with government APIs (PNCP). I also played a key role in the first international deployment of our main software, adapting business rules for global markets.
 
-### 🚀 Projetos em Destaque
-<a href = "https://github.com/gustapng/NaEsquina-PersonalProject">NaEsquina</a>
 
-Um aplicativo para descobrir e recomendar comércios locais, criado para facilitar a busca por estabelecimentos ao redor. Com filtros dinâmicos, e integração com o mapa nativo do iOS, o NaEsquina representa minha abordagem prática e orientada a boas práticas no desenvolvimento mobile. Este projeto está em constante evolução e uso as melhores práticas de arquitetura e design de interface.
+### 👨‍💻 Technical Skills
 
-### 💡 Objetivo
-Estou focado em construir uma carreira sólida em desenvolvimento iOS, aplicando constantemente novas técnicas e contribuindo para projetos de impacto. Valorizo o aprendizado contínuo e a troca de conhecimento, e estou sempre em busca de formas de aprimorar minhas habilidades.
+- Backend: PHP (Laravel), RESTful APIs, Firebase
+- Frontend: JavaScript (ES6+), Angular, Vue.js, HTML5, CSS3 (Bootstrap/Tailwind CSS)
+- Mobile: Swift (SwiftUI, UIKit - View Code), Combine, RxSwift, Flutter, Dart
+- Databases: PostgreSQL, MySQL, MongoDB
+- UI/UX & Design: Figma, Adobe Photoshop
+- Testing & Quality Assurance: XCTest, Unit Testing, Code Review
+- Tools & Methodologies: Git, Docker, Agile Methodologies (Scrum, Kanban)
 
-### Vamos nos conectar!
+### Let's connect!
 📧 Email: gustavoferreira.png@gmail.com<br>
 🐙 GitHub: github.com/gustapng<br>
 💼 LinkedIn: linkedin.com/in/gustavoferreira<br>
