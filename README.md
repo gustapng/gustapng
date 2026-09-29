@@ -4,25 +4,17 @@
   <a href="https://api.whatsapp.com/send/?phone=557382111652&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-# 👋 Hello, I am Gustavo Ferreira
+# 👋 Oi, Eu sou o Gustavo
 
-I am a Mid-Level Full Stack Developer with 4+ years of experience specializing in building, modernizing, and optimizing web applications, with deep expertise in the PHP/Laravel ecosystem and Vue.js.
+Engenheiro de Software Full Stack com mais de 4 anos de experiência no desenvolvimento de aplicações escaláveis utilizando PHP (Laravel), JavaScript (Vue.js/Angular), Flutter e PostgreSQL. Experiência sólida em internacionalização de softwares, refatoração de sistemas legados e integração com APIs de alta criticidade. Cursando MBA em Engenharia de Software na UTFPR.
 
-My focus is on System Modernization, REST API Integrations, and Performance Optimization, while bridging the gap between Backend logic and Frontend usability (UI/UX). I strive to deliver efficient solutions by strictly adhering to Clean Code principles and best practices in database management.
+### 👨‍💻 Competências técnicas
 
-I am results-oriented: I was recently promoted to Mid-Level Developer (Jan 2025) after leading critical initiatives, such as refactoring legacy modules into modern Vue.js/Laravel architectures and executing complex integrations with government APIs (PNCP). I also played a key role in the first international deployment of our main software, adapting business rules for global markets.
+Linguagens & Frameworks: PHP (Laravel), JavaScript/TypeScript, Vue.js, Angular, Dart (Flutter), Swift, HTML5/CSS3 (Tailwind,
+Bootstrap)
+Bancos de Dados & Filas: PostgreSQL, MySQL, MongoDB, RabbitMQ, Firebase
+Ferramentas & Práticas: Git, Docker, REST APIs, CI/CD, Cypress (E2E), Figma, Scrum/Kanban
 
-
-### 👨‍💻 Technical Skills
-
-- Backend: PHP (Laravel), RESTful APIs, Firebase
-- Frontend: JavaScript (ES6+), Angular, Vue.js, HTML5, CSS3 (Bootstrap/Tailwind CSS)
-- Mobile: Swift (SwiftUI, UIKit - View Code), Combine, RxSwift, Flutter, Dart
-- Databases: PostgreSQL, MySQL, MongoDB
-- UI/UX & Design: Figma, Adobe Photoshop
-- Testing & Quality Assurance: XCTest, Unit Testing, Code Review
-- Tools & Methodologies: Git, Docker, Agile Methodologies (Scrum, Kanban)
-
-### Let's connect!
+### Vamos nos conectar!
 📧 Email: gustavoferreira.png@gmail.com<br>
 💼 LinkedIn: linkedin.com/in/gustavoferreira<br>
