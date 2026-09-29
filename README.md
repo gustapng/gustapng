@@ -10,10 +10,30 @@ Engenheiro de Software Full Stack com mais de 4 anos de experiência no desenvol
 
 ### 👨‍💻 Competências técnicas
 
-Linguagens & Frameworks: PHP (Laravel), JavaScript/TypeScript, Vue.js, Angular, Dart (Flutter), Swift, HTML5/CSS3 (Tailwind,
-Bootstrap)
-Bancos de Dados & Filas: PostgreSQL, MySQL, MongoDB, RabbitMQ, Firebase
-Ferramentas & Práticas: Git, Docker, REST APIs, CI/CD, Cypress (E2E), Figma, Scrum/Kanban
+Linguagens & Frameworks: 
+  - PHP (Laravel),
+  - JavaScript/TypeScript,
+  - Vue.js,
+  -  Angular,
+  -  Dart (Flutter),
+  -  Swift,
+  -  HTML5/CSS3 (Tailwind, Bootstrap)
+
+Bancos de Dados & Filas:
+ - PostgreSQL,
+ - MySQL,
+ - MongoDB,
+ - RabbitMQ,
+ - Firebase
+
+Ferramentas & Práticas:
+  - Git,
+  - Docker,
+  - REST APIs,
+  - CI/CD,
+  - Cypress (E2E),
+  - Figma,
+  - Scrum/Kanban
 
 ### Vamos nos conectar!
 📧 Email: gustavoferreira.png@gmail.com<br>
